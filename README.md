@@ -1,13 +1,17 @@
-# cursoFrontendDeveloperJavascriptPractico
-Proyecto del curso de Frontend Developer para usar en el curso práctico de Javascript de Platzi, con varias funcionalidades adquiridas.
+# Frontend E-Commerce — Platzi
 
-Hosteado en: https://ginogiorgi.github.io/cursoFrontendDeveloperJavascriptPractico/
+A functional e-commerce storefront built during the Platzi Frontend Developer course.
 
-Posee varias funcionalidades:
+🌐 **[Live demo →](https://ginogiorgi.github.io/cursoFrontendDeveloperJavascriptPractico/)**
 
-- Listado de productos automáticos.
-- Detalles de un ítem al seleccionarlo.
-- Selección de categorías para mostrar productos.
-- Compatible con móvil.
-- Carrito funcional con removedor de ítems.
-- Los diferentes elementos se relacionan entre sí.
+## Features
+
+- Product listing with category filtering
+- Product detail sidebar
+- Functional shopping cart with item removal
+- Mobile-friendly layout
+
+## Stack
+
+- Vanilla JavaScript
+- HTML + CSS
